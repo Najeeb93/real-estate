@@ -1,0 +1,44 @@
+@media only screen and (max-width: 990px){
+    .nav-text {
+        display: none !important;
+    }
+    .mid-text {
+        display: none !important;
+    }
+    .contact {
+        width: 20% !important;
+    }
+}
+@media only screen and (max-width: 520px){
+    .contact {
+        width: 22% !important;
+    }
+}
+@media only screen and (max-width: 495px){
+    .contact {
+        width: 30% !important;
+        border-radius: 40px !important;
+    }
+}
+@media only screen and (max-width: 355px){
+    .contact {
+        width: 35% !important;
+        border-radius: 40px !important;
+    }
+}
+@media only screen and (max-width: 420px){
+    .slide-img img {
+        width: 100% !important;
+        height: 180px !important;
+        object-fit: contain;
+        
+    }
+    
+}
+@media only screen and (max-width: 450px){
+    .mid-heading {
+        text-align: center !important;
+    }
+    
+    
+}
