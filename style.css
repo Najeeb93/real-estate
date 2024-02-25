@@ -2,9 +2,12 @@
  
  @font-face {
     font-family: poppin;
-    src: url(poppin/OFL.txt);
+    src: url(poppin/Poppins-Regular.ttf);
  }
 
+ *{
+    font-family: poppin;
+ }
  
  .navbar {
     width: 100%;
@@ -52,6 +55,7 @@
     text-align: center;
     border: 1px solid #bebebe;
     margin-right: 6px;
+    padding-top: 10px;
 
 }
 .contact p {
@@ -162,6 +166,7 @@
     margin-left: 10px;
 }
 .card-1 {
+    width: 350px;
     border: 1px solid #bebebe;
     border-radius: 5px;
     
