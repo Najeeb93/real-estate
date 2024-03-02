@@ -29,7 +29,7 @@
 @media only screen and (max-width: 420px){
     .slide-img img {
         width: 100% !important;
-        height: 180px !important;
+        height: 150px !important;
         object-fit: contain;
         
     }
